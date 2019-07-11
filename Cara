@@ -1,0 +1,15 @@
+ <=========================================================================>
+      Cara Menggunakan Tools Ini:
+
+
+      1. Mengirim pesan tunggal:
+       smsid send [phone-number] [message]
+
+       Contoh penggunaan: smsid send 081234567890 "Hai ini saya mr.rla"
+
+
+      2. Mengirim pesan multi:
+       smsid boom [-y] [phone-number] [message] [max-send]
+
+       Contoh penggunaan: smsid boom -y 081234567890 "Hai ini saya mr.rla" 50
+ <=========================================================================>
